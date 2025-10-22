@@ -52,5 +52,26 @@ php artisan serve
 -   View berfungsi untuk menampilkan data kepada pengguna
 -   Controller yang berfungsi sebagai jembatan antara Model dan View
 
-![Tampilan halaman utama](https://drive.google.com/uc?export=view&id=1dRzqhW6U_VOMM6SfANoTo3JZH_h9hwxZ)
+## Screenshoot
 
+## Desktop
+
+-   Login
+    ![Tampilan halaman login PC](https://drive.google.com/uc?export=view&id=1dRzqhW6U_VOMM6SfANoTo3JZH_h9hwxZ)
+
+-   Registrasi
+    ![Tampilan halaman registrasi PC](https://drive.google.com/uc?export=view&id=1cSAgUTvKPhuQJrcLDHpjpGAF9mf6Coi7)
+
+-   Dashboard
+    ![Tampilan halaman Dashboard PC](https://drive.google.com/uc?export=view&id=1v3TiRAd97HTu8tUnY2tddjDJxNtUL4Iw)
+
+## Mobile
+
+-   Login
+    ![Tampilan halaman login Mobile](https://drive.google.com/uc?export=view&id=1x2y0jUbkMIa__03dhPWVI82-l2MMYBgJ)
+
+-   Registrasi
+    ![Tampilan halaman registrasi Mobile](https://drive.google.com/uc?export=view&id=12txNtmzLEBFcxOPMD5415V4Jve03INVX)
+
+-   Dashboard
+    ![Tampilan halaman dashboard Mobile](https://drive.google.com/uc?export=view&id=1oDHN342gdXzqj7cdjn_GVqw0UYtUGyhA)
