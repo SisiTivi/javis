@@ -57,7 +57,7 @@ php artisan serve
 ## Desktop
 
 -   Login
-    !(https://drive.google.com/file/d/1dRzqhW6U_VOMM6SfANoTo3JZH_h9hwxZ/view?usp=sharing)
+    [Login](https://drive.google.com/uc?export=view&id=ID_GAMBAR)
 
 -   Registrasi
     !(https://drive.google.com/file/d/1cSAgUTvKPhuQJrcLDHpjpGAF9mf6Coi7/view?usp=sharing)
@@ -68,7 +68,7 @@ php artisan serve
 ## Mobile
 
 -   Login
-    !(https://drive.google.com/file/d/1x2y0jUbkMIa__03dhPWVI82-l2MMYBgJ/view?usp=drive_link)
+    https://drive.google.com/file/d/1x2y0jUbkMIa__03dhPWVI82-l2MMYBgJ/view?usp=drive_link
 
 -   Registrasi
     !(https://drive.google.com/file/d/12txNtmzLEBFcxOPMD5415V4Jve03INVX/view?usp=drive_link)
