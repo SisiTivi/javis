@@ -68,10 +68,13 @@ php artisan serve
 ## Mobile
 
 -   Login
+
     ![Tampilan halaman login Mobile](https://drive.google.com/uc?export=view&id=1x2y0jUbkMIa__03dhPWVI82-l2MMYBgJ)
 
 -   Registrasi
+
     ![Tampilan halaman registrasi Mobile](https://drive.google.com/uc?export=view&id=12txNtmzLEBFcxOPMD5415V4Jve03INVX)
 
 -   Dashboard
+
     ![Tampilan halaman dashboard Mobile](https://drive.google.com/uc?export=view&id=1oDHN342gdXzqj7cdjn_GVqw0UYtUGyhA)
