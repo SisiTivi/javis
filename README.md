@@ -57,7 +57,7 @@ php artisan serve
 ## Desktop
 
 -   Login
-    [Login](https://drive.google.com/uc?export=view&id=ID_GAMBAR)
+    [Login](https://drive.google.com/uc?export=view&id=1dRzqhW6U_VOMM6SfANoTo3JZH_h9hwxZ)
 
 -   Registrasi
     !(https://drive.google.com/file/d/1cSAgUTvKPhuQJrcLDHpjpGAF9mf6Coi7/view?usp=sharing)
